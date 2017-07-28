@@ -1,0 +1,8 @@
+name: cron-life
+channels:
+    - defaults
+dependencies:
+- python=3.6.1
+- pip:
+    - future==0.16.0
+    - google-api-python-client
